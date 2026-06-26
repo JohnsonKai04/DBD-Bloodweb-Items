@@ -1,6 +1,4 @@
 /build
 main.spec
 /dist
-/Icons
-/Bloodwebcenter
-*.png
+*.exe
